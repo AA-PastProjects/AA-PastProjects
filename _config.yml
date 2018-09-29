@@ -6,8 +6,13 @@ brand: Alex Andreasen
 headline: Developer, avid reader and life improver
 description: > # this means to ignore newlines until "baseurl:"
   New Site
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://aa-pastprojects.github.io/AA-PastProjects/" # the subpath of your site, e.g. /blog
 url: "https://aa-pastprojects.github.io/AA-PastProjects/" # the base hostname & protocol for your site
+githuburl: "https://github.com/AA-PastProjects"
+gurlmybooks: "https://github.com/AA-PastProjects/MyBooks"
+gurlmytunes: "https://github.com/AA-PastProjects/MyTunes"
+gurlquotesbyemail: "https://github.com/AA-PastProjects/QuotesByEmail"
+gurlquotesbyemailwithdocker: "https://github.com/AA-PastProjects/QuotesByEmailWithDocker"
 copyright: 2018 Alex Andreasen
 
 # Build settings
